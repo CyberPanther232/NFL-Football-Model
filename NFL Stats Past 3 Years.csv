@@ -1,0 +1,129 @@
+YEAR,Team,W,L,T,PCT,PF,PA,DIFF
+2024,Kansas City Chiefs,5,0,0,1,118,85,33
+2024,Minnesota Vikings,5,0,0,1,139,76,63
+2024,Houston Texans,5,1,0,0.833,143,135,8
+2024,Detroit Lions,4,1,0,0.8,151,91,60
+2024,Atlanta Falcons,4,2,0,0.667,149,135,14
+2024,Washington Commanders,4,2,0,0.667,178,145,33
+2024,Baltimore Ravens,4,2,0,0.667,177,149,28
+2024,Buffalo Bills,4,2,0,0.667,165,126,39
+2024,Pittsburgh Steelers,4,2,0,0.667,124,86,38
+2024,Tampa Bay Buccaneers,4,2,0,0.667,178,141,37
+2024,Green Bay Packers,4,2,0,0.667,162,121,41
+2024,Chicago Bears,4,2,0,0.667,148,101,47
+2024,Los Angeles Chargers,3,2,0,0.6,91,66,25
+2024,Philadelphia Eagles,3,2,0,0.6,106,112,-6
+2024,San Francisco 49ers,3,3,0,0.5,162,130,32
+2024,Indianapolis Colts,3,3,0,0.5,139,139,0
+2024,Denver Broncos,3,3,0,0.5,112,96,16
+2024,Dallas Cowboys,3,3,0,0.5,126,168,-42
+2024,Seattle Seahawks,3,3,0,0.5,146,150,-4
+2024,Miami Dolphins,2,3,0,0.4,60,113,-53
+2024,New York Jets,2,4,0,0.333,113,108,5
+2024,Las Vegas Raiders,2,4,0,0.333,109,163,-54
+2024,Cincinnati Bengals,2,4,0,0.333,157,152,5
+2024,Arizona Cardinals,2,4,0,0.333,133,163,-30
+2024,New Orleans Saints,2,4,0,0.333,167,147,20
+2024,New York Giants,2,4,0,0.333,96,121,-25
+2024,Tennessee Titans,1,4,0,0.2,96,110,-14
+2024,Los Angeles Rams,1,4,0,0.2,94,139,-45
+2024,Cleveland Browns,1,5,0,0.167,95,141,-46
+2024,New England Patriots,1,5,0,0.167,83,143,-60
+2024,Carolina Panthers,1,5,0,0.167,103,203,-100
+2024,Jacksonville Jaguars,1,5,0,0.167,113,178,-65
+2023,Baltimore Ravens,13,4,0,0.765,483,280,203
+2023,San Francisco 49ers,12,5,0,0.706,491,298,193
+2023,Dallas Cowboys,12,5,0,0.706,509,315,194
+2023,Detroit Lions,12,5,0,0.706,461,395,66
+2023,Buffalo Bills,11,6,0,0.647,451,311,140
+2023,Kansas City Chiefs,11,6,0,0.647,371,294,77
+2023,Cleveland Browns,11,6,0,0.647,396,362,34
+2023,Philadelphia Eagles,11,6,0,0.647,433,428,5
+2023,Miami Dolphins,11,6,0,0.647,496,391,105
+2023,Houston Texans,10,7,0,0.588,377,353,24
+2023,Los Angeles Rams,10,7,0,0.588,404,377,27
+2023,Pittsburgh Steelers,10,7,0,0.588,304,324,-20
+2023,Tampa Bay Buccaneers,9,8,0,0.529,348,325,23
+2023,Green Bay Packers,9,8,0,0.529,383,350,33
+2023,Cincinnati Bengals,9,8,0,0.529,366,384,-18
+2023,Seattle Seahawks,9,8,0,0.529,364,402,-38
+2023,New Orleans Saints,9,8,0,0.529,402,327,75
+2023,Jacksonville Jaguars,9,8,0,0.529,377,371,6
+2023,Indianapolis Colts,9,8,0,0.529,396,415,-19
+2023,Las Vegas Raiders,8,9,0,0.471,332,331,1
+2023,Denver Broncos,8,9,0,0.471,357,413,-56
+2023,Minnesota Vikings,7,10,0,0.412,344,362,-18
+2023,Chicago Bears,7,10,0,0.412,360,379,-19
+2023,Atlanta Falcons,7,10,0,0.412,321,373,-52
+2023,New York Jets,7,10,0,0.412,268,355,-87
+2023,New York Giants,6,11,0,0.353,266,407,-141
+2023,Tennessee Titans,6,11,0,0.353,305,367,-62
+2023,Los Angeles Chargers,5,12,0,0.294,346,398,-52
+2023,Washington Commanders,4,13,0,0.235,329,518,-189
+2023,Arizona Cardinals,4,13,0,0.235,330,455,-125
+2023,New England Patriots,4,13,0,0.235,236,366,-130
+2023,Carolina Panthers,2,15,0,0.118,236,416,-180
+2022,Kansas City Chiefs,14,3,0,0.824,496,369,127
+2022,Philadelphia Eagles,14,3,0,0.824,477,344,133
+2022,Buffalo Bills,13,3,0,0.813,455,286,169
+2022,San Francisco 49ers,13,4,0,0.765,450,277,173
+2022,Minnesota Vikings,13,4,0,0.765,424,427,-3
+2022,Cincinnati Bengals,12,4,0,0.75,418,322,96
+2022,Dallas Cowboys,12,5,0,0.706,467,342,125
+2022,Los Angeles Chargers,10,7,0,0.588,391,384,7
+2022,Baltimore Ravens,10,7,0,0.588,350,315,35
+2022,New York Giants,9,7,1,0.559,365,371,-6
+2022,Jacksonville Jaguars,9,8,0,0.529,404,350,54
+2022,Miami Dolphins,9,8,0,0.529,397,399,-2
+2022,Seattle Seahawks,9,8,0,0.529,407,401,6
+2022,Detroit Lions,9,8,0,0.529,453,427,26
+2022,Pittsburgh Steelers,9,8,0,0.529,308,346,-38
+2022,Washington Commanders,8,8,1,0.5,321,343,-22
+2022,Tampa Bay Buccaneers,8,9,0,0.471,313,358,-45
+2022,New England Patriots,8,9,0,0.471,364,347,17
+2022,Green Bay Packers,8,9,0,0.471,370,371,-1
+2022,New York Jets,7,10,0,0.412,296,316,-20
+2022,Tennessee Titans,7,10,0,0.412,298,359,-61
+2022,Carolina Panthers,7,10,0,0.412,347,374,-27
+2022,Cleveland Browns,7,10,0,0.412,361,381,-20
+2022,New Orleans Saints,7,10,0,0.412,330,345,-15
+2022,Atlanta Falcons,7,10,0,0.412,365,386,-21
+2022,Las Vegas Raiders,6,11,0,0.353,395,418,-23
+2022,Denver Broncos,5,12,0,0.294,287,359,-72
+2022,Los Angeles Rams,5,12,0,0.294,307,384,-77
+2022,Indianapolis Colts,4,12,1,0.265,289,427,-138
+2022,Arizona Cardinals,4,13,0,0.235,340,449,-109
+2022,Houston Texans,3,13,1,0.206,289,420,-131
+2022,Chicago Bears,3,14,0,0.176,326,463,-137
+2021,Green Bay Packers,13,4,0,0.765,450,371,79
+2021,Tampa Bay Buccaneers,13,4,0,0.765,511,353,158
+2021,Tennessee Titans,12,5,0,0.706,419,354,65
+2021,Kansas City Chiefs,12,5,0,0.706,480,364,116
+2021,Dallas Cowboys,12,5,0,0.706,530,358,172
+2021,Los Angeles Rams,12,5,0,0.706,460,372,88
+2021,Buffalo Bills,11,6,0,0.647,483,289,194
+2021,Arizona Cardinals,11,6,0,0.647,449,366,83
+2021,Cincinnati Bengals,10,7,0,0.588,460,376,84
+2021,Las Vegas Raiders,10,7,0,0.588,374,439,-65
+2021,New England Patriots,10,7,0,0.588,462,303,159
+2021,San Francisco 49ers,10,7,0,0.588,427,365,62
+2021,Pittsburgh Steelers,9,7,1,0.559,343,398,-55
+2021,Philadelphia Eagles,9,8,0,0.529,444,385,59
+2021,Indianapolis Colts,9,8,0,0.529,451,365,86
+2021,New Orleans Saints,9,8,0,0.529,364,335,29
+2021,Miami Dolphins,9,8,0,0.529,341,373,-32
+2021,Los Angeles Chargers,9,8,0,0.529,474,459,15
+2021,Minnesota Vikings,8,9,0,0.471,425,426,-1
+2021,Cleveland Browns,8,9,0,0.471,349,371,-22
+2021,Baltimore Ravens,8,9,0,0.471,387,392,-5
+2021,Washington Commanders,7,10,0,0.412,335,434,-99
+2021,Seattle Seahawks,7,10,0,0.412,395,366,29
+2021,Atlanta Falcons,7,10,0,0.412,313,459,-146
+2021,Denver Broncos,7,10,0,0.412,335,322,13
+2021,Chicago Bears,6,11,0,0.353,311,407,-96
+2021,Carolina Panthers,5,12,0,0.294,304,404,-100
+2021,New York Jets,4,13,0,0.235,310,504,-194
+2021,New York Giants,4,13,0,0.235,258,416,-158
+2021,Houston Texans,4,13,0,0.235,280,452,-172
+2021,Detroit Lions,3,13,1,0.206,325,467,-142
+2021,Jacksonville Jaguars,3,14,0,0.176,253,457,-204
